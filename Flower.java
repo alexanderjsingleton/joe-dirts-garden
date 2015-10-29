@@ -14,6 +14,15 @@ public class Flower extends Actor
      */
     public void act() 
     {
-        // Add your action code here.
-    }    
+        fade();
+    }   
+
+    public void jumpUpAndDown()
+    {
+        int amount = getImage().getHeight() / 2; // height of the jump is 1/2 height of cat image height
+        setLocation(getX(),getY() - amount);
+        checkForPizza();
+        wait(10);
+        setLocation(getX(),getY() + amount);
+    }
 }
