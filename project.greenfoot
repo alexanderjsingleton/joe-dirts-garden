@@ -1,0 +1,31 @@
+#Greenfoot properties
+#Thu Oct 29 18:21:32 CDT 2015
+target1.type=ClassTarget
+project.charset=UTF-8
+mainWindow.height=581
+target2.type=ClassTarget
+version=2.7.1
+target2.y=10
+class.Flower.image=flower2.png
+target2.x=70
+target1.typeParameters=
+class.FlowerWorld.image=sand2.jpg
+world.lastInstantiated=FlowerWorld
+target1.height=50
+class.Flower.superclass=greenfoot.Actor
+target2.width=100
+mainWindow.y=40
+target1.width=80
+mainWindow.x=40
+target2.typeParameters=
+package.numDependencies=0
+target1.y=10
+target1.x=180
+package.numTargets=2
+mainWindow.width=874
+target1.name=Flower
+target1.showInterface=false
+class.FlowerWorld.superclass=greenfoot.World
+target2.showInterface=false
+target2.name=FlowerWorld
+target2.height=50
